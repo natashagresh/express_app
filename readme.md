@@ -12,5 +12,5 @@ Quiz your neighbor on them!
 - What is yml?
 - What is end to end testing?
 - What is continuous integration?
-- What should be expect to happen if the lotion isn't in the basket?
+- What should it expect to happen if the lotion isn't in the basket?
 
